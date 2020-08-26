@@ -1,0 +1,23 @@
+PICA:
+id,naziv,litara,cijena
+11,Cijedjena pomorandza,0.33,2.21
+12,Cijedjena pomorandza2,0.32,2.22
+19,Cijedjena pomorandza,0.33,2.2
+20,Cijedjena pomorandza,0.33,2.2
+27,Cijedjena pomorandza,0.33,2.2
+28,Cijedjena pomorandza,0.33,2.2
+29,Cijedjena pomorandza,0.33,2.2
+30,Cijedjena pomorandza,0.33,2.2
+31,Cijedjena pomorandza,0.33,2.2
+32,Cijedjena pomorandza,0.33,2.2
+33,Cijedjena pomorandza,0.33,2.2
+34,Cijedjena pomorandza,0.33,2.2
+39,Fanta,0.33,2.25
+JELA:
+id,naziv,gramaza,cijena
+1,Pizza Margarita,350,3.2
+2,Hamburger + pomfrit,350,2.5
+3,Porcija 5 cevapa + pomfrit,250,2.2
+4,Pizza Margarita,350,3.2
+6,Porcija 5 cevapa + pomfrit2,252,2.22
+13,Slatke palacinke,250,1.8

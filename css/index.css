@@ -1,0 +1,72 @@
+.menu{
+    background-image: url("../images/meni.jpg");
+    background-size:cover;
+    min-height:100vh;
+    font-family: 'Handlee', cursive;
+    padding:100px;
+}
+
+.nav{
+    background-color:brown;
+}
+
+.navitem{
+    color:white;
+    text-decoration:none;
+}
+
+.navitem:hover{
+    color:yellow;
+}
+
+.menu h1{
+    font-weight:bolder;
+}
+
+.menuitem{
+    display:block;
+}
+
+.menu hr{
+    overflow: visible;
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+
+.menu hr:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+}
+
+#searchDrink, #searchFood, #minPriceDrink, #maxPriceDrink, #minPriceFood, #maxPriceFood{
+    display:inline!important;
+    background-color:rgba(58, 10, 10, 0.39);
+    border:1px solid white;
+    color:white;
+
+}
+
+
+#searchDrink::placeholder, #searchFood::placeholder, #minPriceDrink::placeholder, #maxPriceDrink::placeholder, #minPriceFood::placeholder, #maxPriceFood::placeholder{
+    color:white;
+    
+}
+.filterDrink, .filterFood{
+    margin-bottom:50px;
+}
+
+#form{
+    font-size:110%;
+    font-weight:bold;
+}
+
+#form input{
+    background-color:rgba(248, 248, 248, 0.8);
+}
